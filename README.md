@@ -5,9 +5,9 @@
 🚀Building full-stack projects  
 
 ### 🧰 Tech Stack
-- 💡 Languages: Java, JavaScript, HTML, CSS
+- 💡 Languages: Java, JavaScript, HTML, CSS,C
 - ⚙ Frameworks: React, Node.js, Express.js
-- ☁ Cloud & DevOps: AWS, Docker, GitHub Actions
+- 
 - 🧠 Currently Learning: Recursion 
 
 ### 📊 GitHub Stats
