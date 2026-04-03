@@ -1,4 +1,4 @@
-<img width="588" height="125" alt="image" src="https://github.com/user-attachments/assets/6cc06bea-b25d-45e8-a7b1-7e1bbbb722e1" />
+<img item = "center" width="588" height="125" alt="image" src="https://github.com/user-attachments/assets/6cc06bea-b25d-45e8-a7b1-7e1bbbb722e1" />
 
 <h1 align="center">Hi 👋, I'm Ujjwal Kumar</h1>
 
