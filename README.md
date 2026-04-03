@@ -24,5 +24,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ujjwal092&icon=3&color=0)](https://visitcount.itsvg.in)
+## 🐍 Contribution Snake
+![snake gif](https://github.com/Ujjwal092/Ujjwal092/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
