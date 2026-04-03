@@ -9,7 +9,8 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;Web3+Builder;Backend+Focused;System+Design+Learner" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ujjwal092&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwal092&layout=compact&theme=radical" />
 </p>
 
 ---
