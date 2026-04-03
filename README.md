@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6cc06bea-b25d-45e8-a7b1-7e1bbbb722e1" width="588" />
+  <img src="https://github.com/user-attachments/assets/6cc06bea-b25d-45e8-a7b1-7e1bbbb722e1" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ujjwal Kumar</h1>
@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Developer;Web3+Builder;Backend+Focused" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;Web3+Builder;Backend+Focused;System+Design+Learner" />
 </p>
 
 ---
@@ -41,7 +41,11 @@
 - Integrated **Razorpay + Cloudinary**  
 - 🚀 Reduced API response time by ~50% using Redis caching  
 
-🔗 https://studynotion-sandy-seven.vercel.app/
+<p align="center">
+<a href="https://studynotion-sandy-seven.vercel.app/">
+<img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge" />
+</a>
+</p>
 
 ---
 
@@ -51,7 +55,11 @@
 - Added oracle-based dynamic pricing  
 - Wrote 9+ test cases using Hardhat  
 
-🔗 https://vending-machine-hard-hat.vercel.app/
+<p align="center">
+<a href="https://vending-machine-hard-hat.vercel.app/">
+<img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge" />
+</a>
+</p>
 
 ---
 
@@ -65,12 +73,9 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:** Java, Python, C++, JavaScript, SQL  
-**Frontend:** React, Tailwind CSS  
-**Backend:** Node.js, Express, REST APIs, JWT  
-**Database:** MongoDB, PostgreSQL, MySQL  
-**Tools:** Git, Postman, Cloudinary, Figma  
-**Web3:** Solidity, Hardhat  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,postgres,tailwind,git,github,solidity" />
+</p>
 
 ---
 
@@ -78,6 +83,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ujjwal092&show_icons=true&theme=radical" />
   <img src="https://streak-stats.demolab.com/?user=Ujjwal092&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwal092&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -94,7 +103,15 @@
 
 ---
 
-## 📫 Contact
-📧 us581318@gmail.com  
-🔗 https://github.com/Ujjwal092
-Portfolio: https://portfolio-ujjwal-lake.vercel.app
+## 📫 Connect with Me
+<p align="center">
+<a href="mailto:us581318@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://portfolio-ujjwal-lake.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
+</a>
+<a href="https://github.com/Ujjwal092">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+</a>
+</p>
