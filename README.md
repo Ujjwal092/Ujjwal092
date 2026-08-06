@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Ujjwal Kumar</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | MERN | Web3
+🚀 Full Stack Developer | AI Integration | DevOps | Web3 
 </h3>
 
 <p align="center">
@@ -16,25 +16,45 @@
 ---
 
 ## 💫 About Me
-- 🎓 B.E. Information Science @ Dayananda Sagar Academy of Technology & Management (CGPA: 8.51)  
-- 💻 Full Stack Developer focused on **scalable backend systems**  
-- 🚀 Currently working as **Full Stack Intern @ OriginCore**  
-- ⚡ Strong interest in **System Design & Performance Optimization**  
-- 🧠 Solved **350+ DSA problems** across platforms  
-
+💫 About Me
+🎓 B.E. Information Science @ DSATM Bengaluru (CGPA: 8.62)
+💻 Full Stack Developer focused on scalable backend systems & AI integration
+🏢 months of production internship experience (OriginCore + Skydot Infotech)
+⚡ Strong interest in System Design, Performance Optimization & DevOps
+🧠 Solved 450+ DSA problems across LeetCode, CodeChef & HackerRank
+🏆 Ranked #139 / 6,190 in Codequezt #28 — Naukri Campus (Top 2.5%)
 ---
 
 ## 💼 Experience
 
-### 🧑‍💻 Full Stack Intern @ OriginCore
-- Engineered and optimized REST APIs using MERN stack, improving backend performance  
-- Debugged production-level issues across frontend & backend  
-- Improved UI responsiveness via efficient state management  
-- Collaborated using Git and streamlined workflows  
+🧑‍💻 Full Stack Intern @ OriginCore Tech (Feb 2026 – Apr 2026)
+Delivered 23+ production pages across PFL Finance (React.js) and Te's Shanti (Next.js) — built reusable, responsive components from Figma designs
+Built AI-powered document verification system integrating Google Vision OCR + Gemini API with prompt engineering — automated Aadhaar, PAN, utility bill extraction
+Debugged critical CORS and production-level issues; wrote clean, well-documented code following Git-based workflows
 
+🧑‍💻 Frontend Developer Intern @ Skydot Infotech (Nov 2025 – Feb 2026)
+Built responsive UI components across ERP, LMS, and ITMS platforms using React.js and Node.js
+Integrated REST APIs with real-time data rendering; participated in code reviews
 ---
 
 ## 🚀 Projects
+
+###  🛒 CartSyy – AI-Powered E-Commerce Platform
+- Architected full-stack platform with JWT auth, RBAC, Stripe payments (webhook-verified) and admin dashboard with revenue analytics
+- Optimized PostgreSQL via indexing + query tuning on 100K+ records — reduced query time 26ms → 9ms (65% faster)
+- Load tested with k6 — 1,000 concurrent users, 54K+ requests, 0% failure at ~365 req/s
+- Built AI shopping assistant + natural language search with Gemini API; KNN-based recommendation engine
+- Containerized with Docker, CI/CD via GitHub Actions, 11+ Jest/Supertest test cases, Swagger/OpenAPI docs
+    <p align="center">
+    <a href="https://studynotion-sandy-seven.vercel.app/">
+    <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge" />
+    </a>
+    </p>
+    
+### 🔐 GateKeeper – Distributed API Rate Limiter
+- Designed distributed rate-limiting service supporting Token Bucket, Sliding Window, and Leaky Bucket algorithms via Strategy design pattern
+- Built atomic enforcement using Redis Lua scripts (EVALSHA) — 0 race conditions under concurrent load
+- Load-tested with k6 — ~95%+ requests correctly rate-limited; containerized with Docker + Docker Compose  
 
 ### 🎓 StudyNotion – MERN EdTech Platform
 - Built scalable edtech platform with **JWT + Google OAuth authentication**  
@@ -43,7 +63,7 @@
 - 🚀 Reduced API response time by ~50% using Redis caching  
 
 <p align="center">
-<a href="https://studynotion-sandy-seven.vercel.app/">
+<a href="https://cartsyy-ujjwal092s-projects.vercel.app/">
 <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge" />
 </a>
 </p>
@@ -93,9 +113,10 @@
 ---
 
 ## 🏆 Achievements
-- 🧠 Solved 350+ DSA problems  
-- 🔥 50+ day LeetCode streak  
-- ⭐ 3 Star Problem Solving (HackerRank)  
+- 🏅 Ranked #139 / 6,190 in Codequezt #28 — Naukri Campus (Top 2.5%)
+- 🧠 Solved 450+ DSA problems across LeetCode, CodeChef & HackerRank
+- 🔥 100+ day active LeetCode streak
+- ⭐ 4 Star Problem Solving rating on HackerRank
 
 ---
 
