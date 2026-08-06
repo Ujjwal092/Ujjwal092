@@ -16,25 +16,25 @@
 ---
 
 ## 💫 About Me
-💫 About Me
-🎓 B.E. Information Science @ DSATM Bengaluru (CGPA: 8.62)
-💻 Full Stack Developer focused on scalable backend systems & AI integration
-🏢 months of production internship experience (OriginCore + Skydot Infotech)
-⚡ Strong interest in System Design, Performance Optimization & DevOps
-🧠 Solved 450+ DSA problems across LeetCode, CodeChef & HackerRank
-🏆 Ranked #139 / 6,190 in Codequezt #28 — Naukri Campus (Top 2.5%)
+- 💫 About Me
+- 🎓 B.E. Information Science @ DSATM Bengaluru (CGPA: 8.62)
+- 💻 Full Stack Developer focused on scalable backend systems & AI integration
+- 🏢 months of production internship experience (OriginCore + Skydot Infotech)
+-⚡ Strong interest in System Design, Performance Optimization & DevOps
+- 🧠 Solved 450+ DSA problems across LeetCode, CodeChef & HackerRank
+- 🏆 Ranked #139 / 6,190 in Codequezt #28 — Naukri Campus (Top 2.5%)
 ---
 
 ## 💼 Experience
 
 🧑‍💻 Full Stack Intern @ OriginCore Tech (Feb 2026 – Apr 2026)
-Delivered 23+ production pages across PFL Finance (React.js) and Te's Shanti (Next.js) — built reusable, responsive components from Figma designs
-Built AI-powered document verification system integrating Google Vision OCR + Gemini API with prompt engineering — automated Aadhaar, PAN, utility bill extraction
-Debugged critical CORS and production-level issues; wrote clean, well-documented code following Git-based workflows
+- Delivered 23+ production pages across PFL Finance (React.js) and Te's Shanti (Next.js) — built reusable, responsive components from Figma designs
+- Built AI-powered document verification system integrating Google Vision OCR + Gemini API with prompt engineering — automated Aadhaar, PAN, utility bill   extraction
+- Debugged critical CORS and production-level issues; wrote clean, well-documented code following Git-based workflows
 
 🧑‍💻 Frontend Developer Intern @ Skydot Infotech (Nov 2025 – Feb 2026)
-Built responsive UI components across ERP, LMS, and ITMS platforms using React.js and Node.js
-Integrated REST APIs with real-time data rendering; participated in code reviews
+- Built responsive UI components across ERP, LMS, and ITMS platforms using React.js and Node.js
+- Integrated REST APIs with real-time data rendering; participated in code reviews
 ---
 
 ## 🚀 Projects
