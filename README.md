@@ -1,4 +1,4 @@
-<p align="center">
+[<p align="center">
   <img src="https://github.com/user-attachments/assets/6cc06bea-b25d-45e8-a7b1-7e1bbbb722e1" width="100%" />
 </p>
 
@@ -137,3 +137,4 @@ Integrated REST APIs with real-time data rendering; participated in code reviews
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
 </a>
 </p>
+](https://github.com/Ujjwal092/Ujjwal092/edit/main/README.md)
