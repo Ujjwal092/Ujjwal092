@@ -1,12 +1,12 @@
-[<p align="center">
-  <img src="https://github.com/user-attachments/assets/6cc06bea-b25d-45e8-a7b1-7e1bbbb722e1" width="100%" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Ujjwal Kumar</h1>
 
 <h3 align="center">
 🚀 Full Stack Developer | AI Integration | DevOps | Web3 
 </h3>
+
+<img width='100%' src='https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/Tech%20stack%20logo/gif.gif' />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ujjwal092&show_icons=true&theme=radical" />
