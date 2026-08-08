@@ -8,14 +8,6 @@
 
 <img width='100%' src='https://github.com/Aniruddha-Gade/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/Tech%20stack%20logo/gif.gif' />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ujjwal092&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwal092&layout=compact&theme=radical" />
-</p>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ujjwal092&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwal092&layout=compact&theme=radical&hide_border=true" />
-</p>
 ---
 
 ## 💫 About Me
@@ -109,9 +101,7 @@
   <img src="https://streak-stats.demolab.com/?user=Ujjwal092&theme=radical" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwal092&layout=compact&theme=radical" />
-</p>
+
 
 ---
 
